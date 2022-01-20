@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/96268220?v=4" />
    <h3 align="center">¡Hi 👋! I'm Alejandro 👨🏻‍💻</h3>
 </p>
 <p align="center">I'm a <strong>Ssr Full Stack</strong> developer<br />¡Check my content 👇!</p>
